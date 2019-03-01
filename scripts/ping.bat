@@ -1,1 +1,1 @@
-ping talend-dev2
+ping talend-dev2.graphisoft.hu
